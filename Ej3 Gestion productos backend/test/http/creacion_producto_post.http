@@ -1,0 +1,4 @@
+POST http://localhost:5000/products HTTP/1.1
+content-type: application/json
+
+{ "name": "Monitor", "price": 19, "category": "Electronics" }

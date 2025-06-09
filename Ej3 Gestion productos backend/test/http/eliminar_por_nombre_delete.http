@@ -1,0 +1,1 @@
+DELETE http://localhost:5000/products/by-name/Monitor HTTP/1.1

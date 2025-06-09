@@ -1,0 +1,8 @@
+POST http://localhost:5000/canciones HTTP/1.1
+content-type: application/json
+
+{
+    "nombre": "cancion.nombre",
+    "artista": "cancion.artista",
+    "genero": "cancion.genero"
+}

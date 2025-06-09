@@ -1,0 +1,2 @@
+GET http://localhost:5001/profile
+Authorization: Bearer abc123
